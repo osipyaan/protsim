@@ -1,2 +1,3 @@
-# protsim
-coarse grain protein simulation + notes
+# torchmd 
+protein simulation + notes.
+working colab notebook for 3d protein modelling.
